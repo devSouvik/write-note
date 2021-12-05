@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "random 1",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae iure repudiandae vel accusamus facilis consequatur id dicta eum quis eligendi cupiditate aspernatur fugiat obcaecati quia, eaque, deserunt laudantium ullam blanditiis!",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "random 2",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae iure repudiandae vel accusamus facilis consequatur id dicta eum quis eligendi cupiditate aspernatur fugiat obcaecati quia, eaque, deserunt laudantium ullam blanditiis!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Vitae iure repudiandae vel accusamus facilis consequatur id dicta eum quis eligendi cupiditate aspernatur fugiat obcaecati quia, eaque, deserunt laudantium ullam blanditiis!",
+      "category": "work",
+      "id": 6
+    },
+    {
+      "title": "random 3",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae iure repudiandae vel accusamus facilis consequatur id dicta ",
+      "category": "money",
+      "id": 7
+    },
+    {
+      "title": "random 4",
+      "details": "sljvbbjss fbvsbv jsbdvkbuoser ofhvodrhv eorvholervsljvbbjss fbvsbv jsbdvkbuoser ofhvodrhv eorvholerv sljvbbjss fbvsbv jsbdvkbuoser ofhvodrhv eorvholervsljvbbjss fbvsbv jsbdvkbuoser ofhvodrhv eorvholervsljvbbjss fbvsbv jsbdvkbuoser ofhvodrhv eorvholerv sljvbbjss fbvsbv jsbdvkbuoser ofhvodrhv eorvholerv sljvbbjss fbvsbv jsbdvkbuoser ofhvodrhv eorvholerv",
+      "category": "money",
+      "id": 8
+    }
+  ]
+}
